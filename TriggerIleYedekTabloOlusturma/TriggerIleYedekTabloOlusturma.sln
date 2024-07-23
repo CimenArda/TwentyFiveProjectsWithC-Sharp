@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriggerIleYedekTabloOlusturma", "TriggerIleYedekTabloOlusturma\TriggerIleYedekTabloOlusturma.csproj", "{B2544204-0F0A-4F2E-A087-C6E7340EBBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2544204-0F0A-4F2E-A087-C6E7340EBBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2544204-0F0A-4F2E-A087-C6E7340EBBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2544204-0F0A-4F2E-A087-C6E7340EBBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2544204-0F0A-4F2E-A087-C6E7340EBBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F2009AB-C92B-47B2-85BD-AEE3974BB201}
+	EndGlobalSection
+EndGlobal
